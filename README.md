@@ -152,15 +152,17 @@
 
 # GSI
 
-| 名称                            | 网站                                                         | telegram 频道          | 说明                   |
-| ------------------------------- | ------------------------------------------------------------ | ---------------------- | ---------------------- |
-| DSU-Sideloader                  | https://github.com/VegaBobo/DSU-Sideloader                   |                        | 启动 Sideloader 的 app |
-| Generic System Image (GSI) list | https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-(GSI)-list |                        |                        |
-| Andy Yan's personal builds      | https://sourceforge.net/projects/andyyan-gsi/files/          |                        |                        |
-| Mystic GSI                      | https://sourceforge.net/projects/mystic-gsi-updates/files/   | https://t.me/mysticgsi |                        |
-| Nippon GSI                      | https://sourceforge.net/projects/nippongsi/files/            | https://t.me/nippongsi |                        |
-|                                 |                                                              |                        |                        |
-|                                 |                                                              |                        |                        |
+| 名称                            | 网站                                                         | telegram 频道               | 说明                   |
+| ------------------------------- | ------------------------------------------------------------ | --------------------------- | ---------------------- |
+| DSU-Sideloader                  | https://github.com/VegaBobo/DSU-Sideloader                   |                             | 启动 Sideloader 的 app |
+| Generic System Image (GSI) list | https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-(GSI)-list |                             |                        |
+| Andy Yan's personal builds      | https://sourceforge.net/projects/andyyan-gsi/files/          |                             |                        |
+| Mystic GSI                      | https://sourceforge.net/projects/mystic-gsi-updates/files/   | https://t.me/mysticgsi      |                        |
+| Nippon GSI                      | https://sourceforge.net/projects/nippongsi/files/            | https://t.me/nippongsi      |                        |
+| GsiUpdate                       |                                                              | https://t.me/GsiUpdate      |                        |
+| TrebleUniverse                  |                                                              | https://t.me/TrebleUniverse |                        |
+| Naz update                      |                                                              | https://t.me/naz_dev        |                        |
+|                                 |                                                              |                             |                        |
 
 # Gapps
 
