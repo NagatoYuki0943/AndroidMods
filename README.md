@@ -13,19 +13,21 @@
 
 # 常用工具
 
-| 名称              | 网址                                                         | 说明         |
-| ----------------- | ------------------------------------------------------------ | ------------ |
-| adb               | https://developer.android.com/tools/releases/platform-tools?hl=zh-cn |              |
-| 秋之盒            | https://atmb.top/                                            |              |
-| 晨钟科技          | https://www.jamcz.com/                                       |              |
-| KernelFlasher     | https://github.com/capntrips/KernelFlasher/                  | 刷kernel工具 |
-| QFIL Tool         | https://qfiltool.com/                                        | 9008刷机工具 |
-| QPST Tool         | https://qpsttool.com/                                        |              |
-| otadump           | https://github.com/crazystylus/otadump                       | 解包工具     |
-| payload-dumper-go | https://github.com/ssut/payload-dumper-go                    | 解包工具     |
-| 镧·系统工具箱官网 | https://www.lasystools.com/                                  |              |
-|                   |                                                              |              |
-|                   |                                                              |              |
+| 名称                 | 网址                                                         | 说明                |
+| -------------------- | ------------------------------------------------------------ | ------------------- |
+| adb                  | https://developer.android.com/tools/releases/platform-tools?hl=zh-cn | adb和fastboot工具   |
+| 秋之盒               | https://atmb.top/                                            | adb和fastboot工具箱 |
+| 晨钟科技             | https://www.jamcz.com/                                       | adb和fastboot工具箱 |
+| KernelFlasher        | https://github.com/capntrips/KernelFlasher/                  | 刷kernel工具        |
+| QFIL Tool            | https://qfiltool.com/                                        | 高通9008刷机工具    |
+| QPST Tool            | https://qpsttool.com/                                        |                     |
+| 联发科工具（待补充） |                                                              |                     |
+|                      |                                                              |                     |
+| otadump              | https://github.com/crazystylus/otadump                       | 解包工具            |
+| payload-dumper-go    | https://github.com/ssut/payload-dumper-go                    | 解包工具            |
+| 镧·系统工具箱官网    | https://www.lasystools.com/                                  | 手机玩机工具        |
+|                      |                                                              |                     |
+|                      |                                                              |                     |
 
 # Root&Xposed
 
@@ -43,7 +45,7 @@
 | shamiko                          | https://github.com/LSPosed/LSPosed.github.io/releases/       |                                                   | 隐藏root                                                     |
 | Sui                              | https://github.com/RikkaApps/Sui                             |                                                   |                                                              |
 | Shizuku                          | https://github.com/RikkaApps/Shizuku                         | https://shizuku.rikka.app/zh-hans/                |                                                              |
-| PlayIntegrityFix                 | https://github.com/chiteroman/PlayIntegrityFix               |                                                   |                                                              |
+| PlayIntegrityFix                 | https://github.com/chiteroman/PlayIntegrityFix               |                                                   | 修复 PlayIntegrity                                           |
 | Riru                             | https://github.com/RikkaApps/Riru                            |                                                   |                                                              |
 | scene                            | https://github.com/helloklf/vtools                           |                                                   |                                                              |
 | ViPER4Android                    | https://github.com/AndroidAudioMods/ViPER4Android            |                                                   | 蝰蛇音效                                                     |
@@ -65,12 +67,12 @@
 
 # Recovery
 
-| 名称      | 网站                                  | 存档地址                                          | 说明 |
-| --------- | ------------------------------------- | ------------------------------------------------- | ---- |
-| TWRP      | https://twrp.me/Devices/              |                                                   |      |
-| OrangeFox | https://orangefox.download/zh-CN      | https://sourceforge.net/projects/orangefox/files/ |      |
-| SHRP      | https://skyhawkrecovery.github.io/    | https://sourceforge.net/projects/shrp/files/      |      |
-| skkk twrp | https://www.123pan.com/s/qHhDVv-nuQJv |                                                   |      |
+| 名称      | 网站                                  | 存档地址                                          | telegram 频道                 | 说明                     |
+| --------- | ------------------------------------- | ------------------------------------------------- | ----------------------------- | ------------------------ |
+| TWRP      | https://twrp.me/Devices/              |                                                   | https://t.me/twrpupdater      |                          |
+| OrangeFox | https://orangefox.download/zh-CN      | https://sourceforge.net/projects/orangefox/files/ | https://t.me/OrangeFoxUpdates |                          |
+| SHRP      | https://skyhawkrecovery.github.io/    | https://sourceforge.net/projects/shrp/files/      |                               |                          |
+| skkk twrp | https://www.123pan.com/s/qHhDVv-nuQJv |                                                   |                               | skkk 大佬的小米手机 twrp |
 
 # rom 列表
 
@@ -150,15 +152,15 @@
 
 # GSI
 
-| 名称                            | 网站                                                         | 说明                   |
-| ------------------------------- | ------------------------------------------------------------ | ---------------------- |
-| DSU-Sideloader                  | https://github.com/VegaBobo/DSU-Sideloader                   | 启动 Sideloader 的 app |
-| Generic System Image (GSI) list | https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-(GSI)-list |                        |
-| Andy Yan's personal builds      | https://sourceforge.net/projects/andyyan-gsi/files/          |                        |
-| Mystic GSI                      | https://sourceforge.net/projects/mystic-gsi-updates/files/   |                        |
-| Nippon GSI                      | https://sourceforge.net/projects/nippongsi/files/            |                        |
-|                                 |                                                              |                        |
-|                                 |                                                              |                        |
+| 名称                            | 网站                                                         | telegram 频道          | 说明                   |
+| ------------------------------- | ------------------------------------------------------------ | ---------------------- | ---------------------- |
+| DSU-Sideloader                  | https://github.com/VegaBobo/DSU-Sideloader                   |                        | 启动 Sideloader 的 app |
+| Generic System Image (GSI) list | https://github.com/phhusson/treble_experimentations/wiki/Generic-System-Image-(GSI)-list |                        |                        |
+| Andy Yan's personal builds      | https://sourceforge.net/projects/andyyan-gsi/files/          |                        |                        |
+| Mystic GSI                      | https://sourceforge.net/projects/mystic-gsi-updates/files/   | https://t.me/mysticgsi |                        |
+| Nippon GSI                      | https://sourceforge.net/projects/nippongsi/files/            | https://t.me/nippongsi |                        |
+|                                 |                                                              |                        |                        |
+|                                 |                                                              |                        |                        |
 
 # Gapps
 
