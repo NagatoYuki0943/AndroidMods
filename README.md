@@ -194,7 +194,7 @@
 | 小米rom下载               | https://xiaomirom.com/series/                                |      |
 | 小米rom下载               | https://roms.miuier.com/                                     |      |
 | 小米手机rec收集           | https://sourceforge.net/projects/recovery-for-xiaomi-devices/files/ |      |
-|                           |                                                              |      |
+| HyperCeiler               | https://github.com/ReChronoRain/HyperCeiler                  |      |
 |                           |                                                              |      |
 
 我自己使用的手机有红米 Note 12 Turbo，红米 K20 Pro，红米 note 5，搜寻 rom 的渠道主要有 telegram 频道和 xda 论坛，telegram 频道更新更快。
@@ -238,6 +238,12 @@
 | 名称      | 网址                                           | 说明 |
 | --------- | ---------------------------------------------- | ---- |
 | Nemo 论坛 | https://www.link-nemo.com/u/10001/category/fun |      |
+
+# Google Pixel
+
+| 名称         | 网址                                         | 说明 |
+| ------------ | -------------------------------------------- | ---- |
+| PixelFlasher | https://github.com/badabing2005/PixelFlasher |      |
 
 # 谷歌相机
 
