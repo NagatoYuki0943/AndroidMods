@@ -18,6 +18,7 @@
 | adb                  | https://developer.android.com/tools/releases/platform-tools?hl=zh-cn | adb和fastboot工具   |
 | 秋之盒               | https://atmb.top/                                            | adb和fastboot工具箱 |
 | 晨钟科技             | https://www.jamcz.com/                                       | adb和fastboot工具箱 |
+| 萤火虫资源站         | https://www.yhcres.top/                                      |                     |
 | KernelFlasher        | https://github.com/capntrips/KernelFlasher/                  | 刷kernel工具        |
 | QFIL Tool            | https://qfiltool.com/                                        | 高通9008刷机工具    |
 | QPST Tool            | https://qpsttool.com/                                        |                     |
@@ -26,7 +27,6 @@
 | otadump              | https://github.com/crazystylus/otadump                       | 解包工具            |
 | payload-dumper-go    | https://github.com/ssut/payload-dumper-go                    | 解包工具            |
 | 镧·系统工具箱官网    | https://www.lasystools.com/                                  | 手机玩机工具        |
-|                      |                                                              |                     |
 |                      |                                                              |                     |
 
 # Root&Xposed
