@@ -83,8 +83,8 @@
 | DisableFlagSecure | https://github.com/LSPosed/DisableFlagSecure |                                   | 运行所有软件截屏                                             |
 | 隐藏应用列表      | https://github.com/Dr-TSNG/Hide-My-Applist   |                                   |                                                              |
 | 测试隐藏应用列表  | https://github.com/Dr-TSNG/ApplistDetector   |                                   |                                                              |
-|                   |                                              |                                   |                                                              |
-|                   |                                              |                                   |                                                              |
+| HyperCeiler       | https://github.com/ReChronoRain/HyperCeiler  |                                   | 修改 Android 13-14 的 MIUI 和 HyperOS                        |
+| Cemiuiler         | https://github.com/ReChronoRain/Cemiuiler    |                                   | 修改 Android 11 ~ 13 的 MIUI 12.5 ~ 14                       |
 |                   |                                              |                                   |                                                              |
 |                   |                                              |                                   |                                                              |
 |                   |                                              |                                   |                                                              |
