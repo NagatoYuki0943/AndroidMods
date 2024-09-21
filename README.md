@@ -29,41 +29,80 @@
 | 镧·系统工具箱官网    | https://www.lasystools.com/                                  | 手机玩机工具        |
 |                      |                                                              |                     |
 
-# Root&Xposed
+# Root
 
+| 名称            | 网址                                    | 文档                                              | 说明           |
+| --------------- | --------------------------------------- | ------------------------------------------------- | -------------- |
+| Magisk          | https://github.com/topjohnwu/Magisk     | https://topjohnwu.github.io/Magisk/               | 面具           |
+| Magisk 中文文档 |                                         | https://jesse205.github.io/MagiskChineseDocument/ |                |
+| Magisk Delta    | https://github.com/HuskyDG/magisk-files | https://huskydg.github.io/magisk-files/           | 狐狸面具       |
+| KernelSU        | https://github.com/tiann/KernelSU       | https://kernelsu.org/zh_CN/                       | 内核Root       |
+| APatch          | https://github.com/bmax121/APatch       | https://apatch.dev/zh_CN/                         | 另一种内核Root |
+| SuperSU         | https://supersuroot.org/                |                                                   |                |
+|                 |                                         |                                                   |                |
 
+## 模块
 
-| 名称                             | 网址                                                         | 文档                                              | 说明                                                         |
-| -------------------------------- | ------------------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------------------ |
-| Magisk                           | https://github.com/topjohnwu/Magisk                          | https://topjohnwu.github.io/Magisk/               | 面具                                                         |
-| Magisk 中文文档                  |                                                              | https://jesse205.github.io/MagiskChineseDocument/ |                                                              |
-| Magisk Delta                     | https://github.com/HuskyDG/magisk-files                      | https://huskydg.github.io/magisk-files/           | 狐狸面具                                                     |
-| KernelSU                         | https://github.com/tiann/KernelSU                            | https://kernelsu.org/zh_CN/                       | 内核Root                                                     |
-| APatch                           | https://github.com/bmax121/APatch                            | https://apatch.dev/zh_CN/                         | 另一种内核Root                                               |
-| ZygiskNext                       | https://github.com/Dr-TSNG/ZygiskNext                        |                                                   |                                                              |
-| systemless-hosts-KernelSU-module | https://github.com/symbuzzer/systemless-hosts-KernelSU-module |                                                   | 在 KernelSU 和 Apatch 上使用 AdAway 等应用程序所需的模块     |
-| shamiko                          | https://github.com/LSPosed/LSPosed.github.io/releases/       |                                                   | 隐藏root                                                     |
-| Sui                              | https://github.com/RikkaApps/Sui                             |                                                   |                                                              |
-| Shizuku                          | https://github.com/RikkaApps/Shizuku                         | https://shizuku.rikka.app/zh-hans/                |                                                              |
-| PlayIntegrityFix                 | https://github.com/chiteroman/PlayIntegrityFix               |                                                   | 修复 PlayIntegrity                                           |
-| Riru                             | https://github.com/RikkaApps/Riru                            |                                                   |                                                              |
-| scene                            | https://github.com/helloklf/vtools                           |                                                   |                                                              |
-| ViPER4Android                    | https://github.com/AndroidAudioMods/ViPER4Android            |                                                   | 蝰蛇音效                                                     |
-| ViperFX-RE                       | https://github.com/WSTxda/ViperFX-RE-Releases                |                                                   | 蝰蛇音效 app 修改版                                          |
-| 秘钥认证                         | https://github.com/vvb2060/KeyAttestation                    |                                                   |                                                              |
-| LSPosed                          | https://github.com/LSPosed/LSPosed                           |                                                   |                                                              |
-| LSPosed_mod                      | https://github.com/mywalkb/LSPosed_mod                       |                                                   |                                                              |
-| LSPatch                          | https://github.com/LSPosed/LSPatch                           |                                                   |                                                              |
-| NPatch                           | https://t.me/NPatch                                          |                                                   |                                                              |
-| 核心破解                         | https://github.com/LSPosed/CorePatch                         |                                                   | 允许降级安装软件，禁用软件包管理器签名验证，禁用 APK 签名验证 |
-| DisableFlagSecure                | https://github.com/LSPosed/DisableFlagSecure                 |                                                   | 运行所有软件截屏                                             |
-| Thanox                           | https://github.com/Tornaco/Thanox                            | https://tornaco.github.io/Thanox/                 | 软件管理                                                     |
-| SuperSU                          | https://supersuroot.org/                                     |                                                   |                                                              |
-|                                  |                                                              |                                                   |                                                              |
-|                                  |                                                              |                                                   |                                                              |
-|                                  |                                                              |                                                   |                                                              |
-|                                  |                                                              |                                                   |                                                              |
-|                                  |                                                              |                                                   |                                                              |
+| 名称                             | 网址                                                         | 文档                               | 说明                                                     |
+| -------------------------------- | ------------------------------------------------------------ | ---------------------------------- | -------------------------------------------------------- |
+| ZygiskNext                       | https://github.com/Dr-TSNG/ZygiskNext                        |                                    |                                                          |
+| systemless-hosts-KernelSU-module | https://github.com/symbuzzer/systemless-hosts-KernelSU-module |                                    | 在 KernelSU 和 Apatch 上使用 AdAway 等应用程序所需的模块 |
+| shamiko                          | https://github.com/LSPosed/LSPosed.github.io/releases/       |                                    | 隐藏root                                                 |
+| Sui                              | https://github.com/RikkaApps/Sui                             |                                    |                                                          |
+| Shizuku                          | https://github.com/RikkaApps/Shizuku                         | https://shizuku.rikka.app/zh-hans/ |                                                          |
+| PlayIntegrityFix                 | https://github.com/chiteroman/PlayIntegrityFix               |                                    | 修复 PlayIntegrity                                       |
+| TrickyStore                      | https://github.com/5ec1cff/TrickyStore                       |                                    |                                                          |
+| Riru                             | https://github.com/RikkaApps/Riru                            |                                    |                                                          |
+| scene                            | https://github.com/helloklf/vtools                           | download.omarea.com/#/versions     |                                                          |
+| ViPER4Android                    | https://github.com/AndroidAudioMods/ViPER4Android            |                                    | 蝰蛇音效                                                 |
+| ViperFX-RE                       | https://github.com/WSTxda/ViperFX-RE-Releases                |                                    | 蝰蛇音效 app 修改版                                      |
+| universal-gms-doze               | https://github.com/gloeyisk/universal-gms-doze               |                                    |                                                          |
+| Iconify                          | https://github.com/Mahmud0808/Iconify                        |                                    | 类原生主题修改                                           |
+| PixelXpert                       | https://github.com/siavash79/PixelXpert                      |                                    | 类原生主题修改                                           |
+| Detach                           | https://github.com/Magisk-Modules-Repo/Detach                |                                    | 防止谷歌Play更新软件                                     |
+|                                  |                                                              |                                    |                                                          |
+
+## 检查工具
+
+| 名称     | 网址                                      | 文档 | 说明 |
+| -------- | ----------------------------------------- | ---- | ---- |
+| 秘钥认证 | https://github.com/vvb2060/KeyAttestation |      |      |
+| YASNAC   | https://github.com/RikkaW/YASNAC          |      |      |
+|          |                                           |      |      |
+
+# Xposed
+
+| 名称              | 网址                                         | 文档                              | 说明                                                         |
+| ----------------- | -------------------------------------------- | --------------------------------- | ------------------------------------------------------------ |
+| LSPosed           | https://github.com/LSPosed/LSPosed           |                                   |                                                              |
+| LSPosed_mod       | https://github.com/mywalkb/LSPosed_mod       |                                   |                                                              |
+| LSPatch           | https://github.com/LSPosed/LSPatch           |                                   |                                                              |
+| NPatch            | https://t.me/NPatch                          |                                   |                                                              |
+| Thanox            | https://github.com/Tornaco/Thanox            | https://tornaco.github.io/Thanox/ | 软件管理                                                     |
+| 核心破解          | https://github.com/LSPosed/CorePatch         |                                   | 允许降级安装软件，禁用软件包管理器签名验证，禁用 APK 签名验证 |
+| DisableFlagSecure | https://github.com/LSPosed/DisableFlagSecure |                                   | 运行所有软件截屏                                             |
+| 隐藏应用列表      | https://github.com/Dr-TSNG/Hide-My-Applist   |                                   |                                                              |
+| 测试隐藏应用列表  | https://github.com/Dr-TSNG/ApplistDetector   |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
+|                   |                                              |                                   |                                                              |
 
 # Recovery
 
