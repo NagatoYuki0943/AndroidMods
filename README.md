@@ -148,6 +148,7 @@
 | SparkOS                  | https://spark-os.live/                             | https://sourceforge.net/projects/sparkosofficial/files/      |                                                              | https://t.me/SparkOSChannel          | ❌            |
 | Project-zephyrus         |                                                    | https://sourceforge.net/projects/projectzephyrus/files/      |                                                              | https://t.me/ProjectZephyrus         | ❌            |
 | ApolloOS                 |                                                    | https://sourceforge.net/projects/apolloos/files/             |                                                              |                                      | ❌            |
+| MistOS                   |                                                    | https://sourceforge.net/projects/project-mistos/files/       |                                                              |                                      | ✔️            |
 | OmniROM                  | https://omnirom.org/#devices                       | https://dl.omnirom.org/                                      | 一个很古老的发行版                                           |                                      | ❌            |
 | PixelOS                  | https://pixelos.net/                               |                                                              | 模拟 Pixel 手机的使用体验                                    | https://t.me/PixelOSOfficial         | ✔️            |
 | PixelExtended            | https://pixelextended.com/                         | https://sourceforge.net/projects/pixelextended/files/        | 模拟 Pixel 手机的使用体验                                    |                                      | ❌            |
@@ -171,7 +172,6 @@
 | Palladium-OS             | https://palladiumos.org/                           | https://sourceforge.net/projects/palladium-os/files/         |                                                              |                                      | ❌            |
 | RevengeOS                |                                                    | https://sourceforge.net/projects/revengeos/files/            |                                                              |                                      | ❌            |
 | hentaiOS                 | https://hentaios.com/                              |                                                              | hentai，hentai，大 hentai                                    |                                      | ✔️            |
-|                          |                                                    |                                                              |                                                              |                                      |              |
 |                          |                                                    |                                                              |                                                              |                                      |              |
 
 # GSI
