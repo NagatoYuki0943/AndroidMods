@@ -151,6 +151,7 @@
 | Project-zephyrus         |                                                    | https://sourceforge.net/projects/projectzephyrus/files/      |                                                              | https://t.me/ProjectZephyrus         | ❌            |
 | ApolloOS                 |                                                    | https://sourceforge.net/projects/apolloos/files/             |                                                              |                                      | ❌            |
 | MistOS                   |                                                    | https://sourceforge.net/projects/project-mistos/files/       |                                                              |                                      | ✔️            |
+| SomethingOS              |                                                    | https://sourceforge.net/projects/somethingos/files/          |                                                              |                                      | ✔️            |
 | HorizonDroid             |                                                    | https://sourceforge.net/projects/horizondroid/files/         |                                                              | https://t.me/horizondroidnews        | ✔️            |
 | KaleidoscopeOS           | https://kaleidoscope.ink/index.html                |                                                              |                                                              |                                      | ❌            |
 | OmniROM                  | https://omnirom.org/#devices                       | https://dl.omnirom.org/                                      | 一个很古老的发行版                                           |                                      | ❌            |
@@ -176,7 +177,6 @@
 | Palladium-OS             | https://palladiumos.org/                           | https://sourceforge.net/projects/palladium-os/files/         |                                                              |                                      | ❌            |
 | RevengeOS                |                                                    | https://sourceforge.net/projects/revengeos/files/            |                                                              |                                      | ❌            |
 | hentaiOS                 | https://hentaios.com/                              |                                                              | hentai，hentai，大 hentai                                    |                                      | ✔️            |
-|                          |                                                    |                                                              |                                                              |                                      |              |
 |                          |                                                    |                                                              |                                                              |                                      |              |
 
 # GSI
