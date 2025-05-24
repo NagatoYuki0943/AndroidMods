@@ -118,7 +118,8 @@
 | SuperiorOS               | https://superior-website.vercel.app/               | https://sourceforge.net/projects/superioros/files/           |                                                              |                                      | ❌            |
 | Evolution X              | https://evolution-x.org/                           | https://sourceforge.net/projects/evolution-x/files/          | 著名的发行版                                                 | https://t.me/EvolutionXUpdates       | ✔️            |
 | AfterLife                | https://afterlifeos.com/                           | https://sourceforge.net/projects/afterlife-projects/files/   |                                                              | https://t.me/Afterlife_update        | ✔️            |
-| RisingOS                 | https://risingos-staging.github.io/                | https://sourceforge.net/projects/risingos-official/          |                                                              |                                      | ✔️            |
+| RisingOS Revived         | https://risingosrevived.tech/                      | https://sourceforge.net/projects/risingos-revived/files/     |                                                              |                                      | ✔️            |
+| RisingOS                 | https://risingos-staging.github.io/                | https://sourceforge.net/projects/risingos-official/          |                                                              |                                      | ❌            |
 | Infinity-X               |                                                    | https://sourceforge.net/projects/infinity-x/files/           |                                                              | https://t.me/ProjectInfinityX        | ✔️            |
 | Project Blaze            | https://projectblaze.in/                           | https://sourceforge.net/projects/projectblaze/files/         | 很漂亮                                                       | https://t.me/projectblaze            | ✔️            |
 | Project Elixir           | https://projectelixiros.com/home                   | https://sourceforge.net/projects/project-elixir/files/       | 很漂亮                                                       | https://t.me/Elixir_Updates          | ✔️            |
@@ -182,7 +183,8 @@
 |                          |                                                    |                                                              |                                                              |                                      |              |
 |                          |                                                    |                                                              |                                                              |                                      |              |
 |                          |                                                    |                                                              |                                                              |                                      |              |
-|                          |                                                    |                                                              |                                                              |                                      |              |
+
+
 
 # GSI
 
